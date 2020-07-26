@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C7470D1B24CDDD2C00D2F0D9 /* MIT License in Resources */ = {isa = PBXBuildFile; fileRef = C7470D1A24CDDD2C00D2F0D9 /* MIT License */; };
 		C76DE10824CDD6E200A4F094 /* AQ.h in Headers */ = {isa = PBXBuildFile; fileRef = C76DE10624CDD6E200A4F094 /* AQ.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C76DE11224CDD70C00A4F094 /* QueueExceptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76DE10E24CDD70C00A4F094 /* QueueExceptions.swift */; };
 		C76DE11324CDD70C00A4F094 /* Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76DE10F24CDD70C00A4F094 /* Node.swift */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C7470D1A24CDDD2C00D2F0D9 /* MIT License */ = {isa = PBXFileReference; lastKnownFileType = text; path = "MIT License"; sourceTree = "<group>"; };
 		C76DE10324CDD6E200A4F094 /* AQ.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AQ.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C76DE10624CDD6E200A4F094 /* AQ.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AQ.h; sourceTree = "<group>"; };
 		C76DE10724CDD6E200A4F094 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				C76DE10624CDD6E200A4F094 /* AQ.h */,
 				C76DE11124CDD70C00A4F094 /* AMRQueue.swift */,
+				C7470D1A24CDDD2C00D2F0D9 /* MIT License */,
 				C76DE10F24CDD70C00A4F094 /* Node.swift */,
 				C76DE10E24CDD70C00A4F094 /* QueueExceptions.swift */,
 				C76DE11024CDD70C00A4F094 /* SearchResult.swift */,
@@ -134,6 +137,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7470D1B24CDDD2C00D2F0D9 /* MIT License in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
